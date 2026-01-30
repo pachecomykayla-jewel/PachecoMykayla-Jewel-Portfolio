@@ -6,6 +6,8 @@
 
 - [Controls and Compliance checklist exemplar] https://docs.google.com/document/d/1s_c2TaYKssLvN-LSio0ISI96mZhPU-qpYQTAq12o_Lw/edit?usp=sharing
 
+- [Incident Report Analysis] https://docs.google.com/document/d/1YjneyK3_yRY4-PBDT0hvc1f_CdJAxwf-RLAwsimkZ3s/edit?usp=sharing
+
 <h2>📄 Certifications</h2>
 
 - [Foundations of Cybersecurity] https://coursera.org/share/60ecb2111a04e2bdb7c7abdcb650dfc0
