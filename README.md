@@ -2,6 +2,8 @@
   
 <h2>💻 Cybersecurity Projects:</h2>
 
+- [Activity: Improve authentication, authorization, and accounting for a small business] https://docs.google.com/spreadsheets/d/1tKUBnTL5KHhEJgcDfwEc71SS_jCK-tEbaD3df3y4UM8/edit?usp=sharing https://docs.google.com/document/d/1pSCLSRDmfGV8DgaIb7QS50q07WHmu4MtAce-n11EjQ4/edit?usp=sharing
+
 - [Botium Toys: Scope, goals, and risk assessment report] https://docs.google.com/document/d/1E_m7Op5ZgcOa8NHlpe9idlX1rJFpfHjttiTjFeHoVnw/edit?usp=sharing
 
 - [Controls and Compliance checklist exemplar] https://docs.google.com/document/d/1s_c2TaYKssLvN-LSio0ISI96mZhPU-qpYQTAq12o_Lw/edit?usp=sharing
