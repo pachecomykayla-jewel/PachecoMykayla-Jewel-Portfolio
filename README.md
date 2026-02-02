@@ -12,6 +12,8 @@
 
 - [Vulerability Assessment Report] https://docs.google.com/document/d/1dRMQcWKFvkTCb_-ofogmBxoGDWj4zbp8QqbRSslLJY8/edit?usp=sharing
 
+- [Incident handler's journal] https://docs.google.com/document/d/1sBzYPTEKGGC3qs5eBWaTXWErTBtsSvh3CHXe1Dr8qik/edit?usp=sharing
+
 <h2>📄 Certifications</h2>
 
 - [Foundations of Cybersecurity] https://coursera.org/share/60ecb2111a04e2bdb7c7abdcb650dfc0
