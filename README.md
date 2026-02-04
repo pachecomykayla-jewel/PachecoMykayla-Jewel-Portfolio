@@ -12,6 +12,8 @@
 
 - [Vulerability Assessment Report] https://docs.google.com/document/d/1dRMQcWKFvkTCb_-ofogmBxoGDWj4zbp8QqbRSslLJY8/edit?usp=sharing
 
+- [Incident Handler's Journal] https://docs.google.com/document/d/1sBzYPTEKGGC3qs5eBWaTXWErTBtsSvh3CHXe1Dr8qik/edit?usp=sharing
+
 
 <h2>📄 Certifications</h2>
 
