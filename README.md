@@ -22,3 +22,4 @@
 - [Connect and Protect: Networks and Network Security] https://coursera.org/share/344bbd08c0afbfba9184db370e6cef11
 - [Tools of the Trade: Linux and SQL] https://coursera.org/share/637647ca18413f5d60643f86cf6e32c1
 - [Assets, Threats and Vulnerabilities] https://coursera.org/share/f4ad3699c39fd721ce39ec821587e4d4
+- [Sound the Alarm: Detection and Response] https://coursera.org/share/cb41e68b9de1177d6f079061a6833893
