@@ -14,6 +14,8 @@
 
 - [Incident Handler's Journal] https://docs.google.com/document/d/1sBzYPTEKGGC3qs5eBWaTXWErTBtsSvh3CHXe1Dr8qik/edit?usp=sharing
 
+- [Algorithm for File Updates] https://docs.google.com/document/d/1tFtshkI6rDAyS1j9d2unardbe3mHUz_yXNjVr3Lx87I/edit?usp=sharing
+
 
 <h2>📄 Certifications</h2>
 
