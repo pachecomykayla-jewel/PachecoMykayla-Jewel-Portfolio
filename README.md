@@ -25,3 +25,4 @@
 - [Tools of the Trade: Linux and SQL] https://coursera.org/share/637647ca18413f5d60643f86cf6e32c1
 - [Assets, Threats and Vulnerabilities] https://coursera.org/share/f4ad3699c39fd721ce39ec821587e4d4
 - [Sound the Alarm: Detection and Response] https://coursera.org/share/cb41e68b9de1177d6f079061a6833893
+- [Automate Cybersecurity Tasks with Python] https://coursera.org/share/0785553bb05c8893ab57c7adefada42e
